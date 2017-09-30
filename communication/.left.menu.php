@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Опросы", 
+		"/communication/voting/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Форум", 
+		"/communication/forum/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Веб-формы", 
+		"/communication/web-forms/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Блоги", 
+		"/communication/blog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Техподдержка", 
+		"/communication/support/?show_wizard=Y", 
+		Array("/communication/support/"), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обучение", 
+		"/communication/learning/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
